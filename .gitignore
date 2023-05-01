@@ -1,0 +1,7 @@
+__pycache__
+.idea
+*.spec
+*.log
+.env
+instance
+.vercel
